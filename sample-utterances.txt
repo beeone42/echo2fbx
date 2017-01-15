@@ -1,0 +1,10 @@
+PowerOn power on
+PowerOn power off
+Mute mute
+Tv tv
+Ok ok
+Volume volume {up|Param}
+Volume volume {down|Param}
+Channel channel {up|Param}
+Channel channel {down|Param}
+GoHome go home

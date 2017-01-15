@@ -1,0 +1,23 @@
+{
+  "intents": [
+    { "intent": "PowerOn", "slots": [] },
+    { "intent": "Tv",      "slots": [] }, 
+    { "intent": "Ok",      "slots": [] }, 
+    { "intent": "GoHome",  "slots": [] },
+    { "intent": "Mute",     "slots": [] },
+    {
+      "intent": "Volume",
+      "slots": [        {
+          "name": "Param",
+          "type": "LITERAL"
+        }]
+    },
+    {
+      "intent": "Channel",
+      "slots": [        {
+          "name": "Param",
+          "type": "LITERAL"
+        }]
+    }
+  ]
+}
